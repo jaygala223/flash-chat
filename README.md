@@ -1,0 +1,1 @@
+Flash Chat is an instant messaging cross-platform application made using Flutter and Firebase
